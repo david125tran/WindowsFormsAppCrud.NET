@@ -6,9 +6,9 @@ The application is connected to a SQL database (Employees.sql).  Give this page 
 ![](https://github.com/david125tran/WindowsFormsAppCrud.NET/blob/main/GIFs/create-gif.gif)  
 
 ### ---Update Functionality---
-*To update, double click a row
+*To update, double click a row  
 ![](https://github.com/david125tran/WindowsFormsAppCrud.NET/blob/main/GIFs/update-gif.gif)  
 
 ### ---Delete Functionality---
-*To delete, double click a row
+*To delete, double click a row  
 ![](https://github.com/david125tran/WindowsFormsAppCrud.NET/blob/main/GIFs/delete-gif.gif) 
