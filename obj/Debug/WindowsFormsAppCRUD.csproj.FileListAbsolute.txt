@@ -1,0 +1,16 @@
+C:\Users\DTran\Desktop\Coding\C.NET\Projects\WindowsFormsAppCRUD\bin\Debug\WindowsFormsAppCRUD.exe.config
+C:\Users\DTran\Desktop\Coding\C.NET\Projects\WindowsFormsAppCRUD\bin\Debug\WindowsFormsAppCRUD.exe
+C:\Users\DTran\Desktop\Coding\C.NET\Projects\WindowsFormsAppCRUD\bin\Debug\WindowsFormsAppCRUD.pdb
+C:\Users\DTran\Desktop\Coding\C.NET\Projects\WindowsFormsAppCRUD\bin\Debug\EntityFramework.dll
+C:\Users\DTran\Desktop\Coding\C.NET\Projects\WindowsFormsAppCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DTran\Desktop\Coding\C.NET\Projects\WindowsFormsAppCRUD\bin\Debug\EntityFramework.xml
+C:\Users\DTran\Desktop\Coding\C.NET\Projects\WindowsFormsAppCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DTran\Desktop\Coding\C.NET\Projects\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.csproj.AssemblyReference.cache
+C:\Users\DTran\Desktop\Coding\C.NET\Projects\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\DTran\Desktop\Coding\C.NET\Projects\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.Form1.resources
+C:\Users\DTran\Desktop\Coding\C.NET\Projects\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.Properties.Resources.resources
+C:\Users\DTran\Desktop\Coding\C.NET\Projects\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.csproj.GenerateResource.cache
+C:\Users\DTran\Desktop\Coding\C.NET\Projects\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.csproj.CoreCompileInputs.cache
+C:\Users\DTran\Desktop\Coding\C.NET\Projects\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.csproj.CopyComplete
+C:\Users\DTran\Desktop\Coding\C.NET\Projects\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.exe
+C:\Users\DTran\Desktop\Coding\C.NET\Projects\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.pdb
